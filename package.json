@@ -1,0 +1,14 @@
+{
+  "name": "@keymanapp/utw2026",
+  "version": "1.0.0",
+  "description": "UTW2026 Keyboard examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@keymanapp/kmc": "^19.0.310-beta"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "imperial_aramaic",
+  "name": "Imperial Aramaic",
+  "license": "mit",
+  "authorName": "Lorna Evans",
+  "description": "<p>This keyboard is for Western Neo-Aramaic and Official Aramaic using the Imperial Aramaic script.</p>",
+  "languages": {
+    "arc": {
+      "examples": [],
+      "font": {
+        "family": "Noto Sans ImpAramaic",
+        "source": [
+          "NotoSansImperialAramaic-Regular.ttf"
+        ]
+      },
+      "oskFont": {
+        "family": "Noto Sans ImpAramaic",
+        "source": [
+          "NotoSansImperialAramaic-Regular.ttf"
+        ]
+      },
+      "languageName": "Official Aramaic (700-300 BCE)",
+      "displayName": "Official Aramaic (700-300 BCE)"
+    },
+    "amw-Armi": {
+      "examples": [],
+      "font": {
+        "family": "Noto Sans ImpAramaic",
+        "source": [
+          "NotoSansImperialAramaic-Regular.ttf"
+        ]
+      },
+      "oskFont": {
+        "family": "Noto Sans ImpAramaic",
+        "source": [
+          "NotoSansImperialAramaic-Regular.ttf"
+        ]
+      },
+      "languageName": "Western Neo-Aramaic",
+      "scriptName": "Imperial Aramaic",
+      "displayName": "Western Neo-Aramaic (Imperial Aramaic)"
+    }
+  },
+  "lastModifiedDate": "2024-09-17T02:38:41.000Z",
+  "packageFilename": "imperial_aramaic.kmp",
+  "packageFileSize": 63070,
+  "packageIncludes": [
+    "visualKeyboard",
+    "welcome",
+    "documentation",
+    "fonts"
+  ],
+  "version": "1.0.1",
+  "encodings": [
+    "unicode"
+  ],
+  "platformSupport": {
+    "linux": "full",
+    "macos": "full",
+    "windows": "full"
+  },
+  "minKeymanVersion": "17.0",
+  "sourcePath": "release/i/imperial_aramaic",
+  "helpLink": "https://help.keyman.com/keyboard/imperial_aramaic"
+}
