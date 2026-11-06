@@ -1,5 +1,12 @@
 # UTW2026 - LDML Keyboards Tutorial
 
+## Slides
+
+Slides from the tutorial session at Unicode Technlogy Workshop in Nancy, France, October 2026, presented by Andrew Glass and Marc Durdin:
+
+* [Part 1 -- Overview, character repertoire, devices, layouts, and distribution](https://docs.google.com/presentation/d/1nOK9TejhzGU_W9rQTsFIk2aVqnU7JNKRe3iM-9WeHwY/edit?usp=sharing)
+* [Part 2 -- Gestures, transforms, reorders, backspace](https://docs.google.com/presentation/d/10LDivgbqZuUY97GorPFaOgGtYND3rISHyRQWLYYHl-I/edit?usp=sharing)
+
 ## Attendee Preparation
 
 1. Bring a laptop (win/mac/linux all okay)  
